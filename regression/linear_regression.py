@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn.datasets import load_boston
+<<<<<<< HEAD
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import sklearn.linear_model
